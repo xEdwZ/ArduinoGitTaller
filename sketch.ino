@@ -1,6 +1,7 @@
 void inicio(){
   Serial.println("Iniciando lectura...");
-  delay(1000); //Edwin is the gayer person
+  delay(1000); //Edwin is god
+  
 }
 
 int LecturaSensor() {
