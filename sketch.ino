@@ -1,6 +1,6 @@
 void inicio(){
   Serial.println("Iniciando lectura...");
-  delay(1000); 
+  delay(1000); // 8=====D
 }
 
 int LecturaSensor() {
